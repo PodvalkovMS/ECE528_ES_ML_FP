@@ -1,0 +1,80 @@
+item {
+  name: "/m/01g317"
+  id: 1
+  display_name: "person"
+}
+item {
+  name: "/m/01mzpv"
+  id: 2
+  display_name: "chair"
+}
+item {
+  name: "/m/02crq1"
+  id: 3
+  display_name: "couch"
+}
+item {
+  name: "/m/03fp41"
+  id: 4
+  display_name: "potted plant"
+}
+item {
+  name: "/m/03ssj5"
+  id: 5
+  display_name: "bed"
+}
+item {
+  name: "/m/04bcr3"
+  id: 6
+  display_name: "dining table"
+}
+item {
+  name: "/m/09g1w"
+  id: 7
+  display_name: "toilet"
+}
+item {
+  name: "/m/07c52"
+  id: 8
+  display_name: "tv"
+}
+item {
+  name: "/m/01c648"
+  id: 9
+  display_name: "laptop"
+}
+item {
+  name: "/m/0fx9l"
+  id: 10
+  display_name: "microwave"
+}
+item {
+  name: "/m/029bxz"
+  id: 11
+  display_name: "oven"
+}
+item {
+  name: "/m/01k6s3"
+  id: 12
+  display_name: "toaster"
+}
+item {
+  name: "/m/0130jx"
+  id: 13
+  display_name: "sink"
+}
+item {
+  name: "/m/040b_t"
+  id: 14
+  display_name: "refrigerator"
+}
+item {
+  name: "/m/01x3z"
+  id: 15
+  display_name: "clock"
+}
+item {
+  name: "/m/02s195"
+  id: 16
+  display_name: "vase"
+}
